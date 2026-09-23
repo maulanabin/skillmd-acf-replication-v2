@@ -1,0 +1,472 @@
+{
+  "generated_at": "2026-06-05T18:45:17.627003",
+  "input_source": "output/discovered_repos.json",
+  "input_repos_expected": 297,
+  "expected_po_skill_files": 1891,
+  "repos_available_locally": 213,
+  "repos_unavailable": 84,
+  "repos_with_at_least_one_skill": 211,
+  "skill_files_resolved_filesystem": 1193,
+  "skill_files_resolved_git_tree": 1193,
+  "skill_files_resolved_total": 1193,
+  "skill_files_missing": 698,
+  "resolution_rate_pct": 63.1,
+  "full_clone_count": 297,
+  "shallow_clone_count": 0,
+  "rq3_history_available_count": 297,
+  "clone_status_counts": {
+    "success": 213,
+    "failed": 84
+  },
+  "valid_correct_remote": 0,
+  "wrong_remote": 0,
+  "wrong_remote_recloned": 0,
+  "broken_recloned": 0,
+  "clone_failed": 84,
+  "missing_by_reason": {
+    "clone_failed": 680,
+    "not_in_git_tree": 18
+  },
+  "top_missing_repos": [
+    {
+      "full_name": "dartsim/dart",
+      "missing_count": 37
+    },
+    {
+      "full_name": "dotnet/dotnet",
+      "missing_count": 29
+    },
+    {
+      "full_name": "owid/etl",
+      "missing_count": 27
+    },
+    {
+      "full_name": "FastLED/FastLED",
+      "missing_count": 25
+    },
+    {
+      "full_name": "Azure/azure-sdk-for-net",
+      "missing_count": 24
+    },
+    {
+      "full_name": "microsoft/vscode",
+      "missing_count": 22
+    },
+    {
+      "full_name": "anyproto/anytype-swift",
+      "missing_count": 21
+    },
+    {
+      "full_name": "Azure/azure-sdk-for-python",
+      "missing_count": 21
+    },
+    {
+      "full_name": "dotnet/maui",
+      "missing_count": 18
+    },
+    {
+      "full_name": "hashintel/hash",
+      "missing_count": 18
+    },
+    {
+      "full_name": "DataDog/datadog-agent",
+      "missing_count": 18
+    },
+    {
+      "full_name": "metabase/metabase",
+      "missing_count": 18
+    },
+    {
+      "full_name": "mastra-ai/mastra",
+      "missing_count": 16
+    },
+    {
+      "full_name": "nrwl/nx",
+      "missing_count": 16
+    },
+    {
+      "full_name": "cockroachdb/cockroach",
+      "missing_count": 15
+    }
+  ],
+  "agent_breakdown": {
+    "Claude_Code": {
+      "input_repos": 42,
+      "cloned_ok": 23,
+      "expected_skills": 329,
+      "resolved_skills": 188,
+      "full_clones": 42,
+      "shallow_clones": 0
+    },
+    "Copilot": {
+      "input_repos": 139,
+      "cloned_ok": 106,
+      "expected_skills": 777,
+      "resolved_skills": 465,
+      "full_clones": 139,
+      "shallow_clones": 0
+    },
+    "OpenAI_Codex": {
+      "input_repos": 81,
+      "cloned_ok": 60,
+      "expected_skills": 578,
+      "resolved_skills": 414,
+      "full_clones": 81,
+      "shallow_clones": 0
+    },
+    "Cursor": {
+      "input_repos": 24,
+      "cloned_ok": 16,
+      "expected_skills": 167,
+      "resolved_skills": 106,
+      "full_clones": 24,
+      "shallow_clones": 0
+    },
+    "Devin": {
+      "input_repos": 11,
+      "cloned_ok": 8,
+      "expected_skills": 40,
+      "resolved_skills": 20,
+      "full_clones": 11,
+      "shallow_clones": 0
+    }
+  },
+  "unavailable_repos": [
+    {
+      "full_name": "obophenotype/uberon",
+      "error": "fatal: destination path 'cloned_repos\\obophenotype__uberon' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "mlflow/mlflow",
+      "error": "fatal: destination path 'cloned_repos\\mlflow__mlflow' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "oxcaml/oxcaml",
+      "error": "fatal: destination path 'cloned_repos\\oxcaml__oxcaml' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "zenml-io/zenml",
+      "error": "fatal: destination path 'cloned_repos\\zenml-io__zenml' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "cockroachdb/cockroach",
+      "error": "fatal: destination path 'cloned_repos\\cockroachdb__cockroach' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "anyproto/anytype-swift",
+      "error": "fatal: destination path 'cloned_repos\\anyproto__anytype-swift' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "ar-io/ar-io-node",
+      "error": "fatal: destination path 'cloned_repos\\ar-io__ar-io-node' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "oven-sh/bun",
+      "error": "fatal: destination path 'cloned_repos\\oven-sh__bun' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "mastra-ai/mastra",
+      "error": "fatal: destination path 'cloned_repos\\mastra-ai__mastra' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "dotCMS/core",
+      "error": "fatal: destination path 'cloned_repos\\dotCMS__core' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "monarch-initiative/mondo",
+      "error": "fatal: destination path 'cloned_repos\\monarch-initiative__mondo' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "nrwl/nx",
+      "error": "fatal: destination path 'cloned_repos\\nrwl__nx' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "airbytehq/airbyte",
+      "error": "fatal: destination path 'cloned_repos\\airbytehq__airbyte' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "pytorch/pytorch",
+      "error": "fatal: destination path 'cloned_repos\\pytorch__pytorch' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "Significant-Gravitas/AutoGPT",
+      "error": "fatal: destination path 'cloned_repos\\Significant-Gravitas__AutoGPT' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "promptfoo/promptfoo",
+      "error": "fatal: destination path 'cloned_repos\\promptfoo__promptfoo' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "grafana/loki",
+      "error": "fatal: destination path 'cloned_repos\\grafana__loki' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "coder/coder",
+      "error": "fatal: destination path 'cloned_repos\\coder__coder' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "geneontology/go-ontology",
+      "error": "fatal: destination path 'cloned_repos\\geneontology__go-ontology' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "dotnet/runtime",
+      "error": "fatal: destination path 'cloned_repos\\dotnet__runtime' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "dotnet/sdk",
+      "error": "fatal: destination path 'cloned_repos\\dotnet__sdk' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "camunda/camunda",
+      "error": "fatal: destination path 'cloned_repos\\camunda__camunda' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "Azure/azure-sdk-for-python",
+      "error": "fatal: destination path 'cloned_repos\\Azure__azure-sdk-for-python' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "Azure/azure-rest-api-specs",
+      "error": "fatal: destination path 'cloned_repos\\Azure__azure-rest-api-specs' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "dotnet/dotnet",
+      "error": "fatal: destination path 'cloned_repos\\dotnet__dotnet' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "microsoft/typespec",
+      "error": "fatal: destination path 'cloned_repos\\microsoft__typespec' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "open-metadata/OpenMetadata",
+      "error": "fatal: destination path 'cloned_repos\\open-metadata__OpenMetadata' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "microsoft/vscode-docs",
+      "error": "fatal: destination path 'cloned_repos\\microsoft__vscode-docs' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "dotnet/macios",
+      "error": "fatal: destination path 'cloned_repos\\dotnet__macios' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "owid/etl",
+      "error": "fatal: destination path 'cloned_repos\\owid__etl' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "pnp/cli-microsoft365",
+      "error": "fatal: destination path 'cloned_repos\\pnp__cli-microsoft365' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "wasp-lang/wasp",
+      "error": "fatal: destination path 'cloned_repos\\wasp-lang__wasp' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "dotnet/docs",
+      "error": "fatal: destination path 'cloned_repos\\dotnet__docs' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "Azure/Azure-Sentinel",
+      "error": "fatal: destination path 'cloned_repos\\Azure__Azure-Sentinel' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "microsoft/roosterjs",
+      "error": "fatal: destination path 'cloned_repos\\microsoft__roosterjs' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "Azure/azure-sdk-for-js",
+      "error": "fatal: destination path 'cloned_repos\\Azure__azure-sdk-for-js' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "dotnet/roslyn",
+      "error": "fatal: destination path 'cloned_repos\\dotnet__roslyn' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "dotnet/winforms",
+      "error": "fatal: destination path 'cloned_repos\\dotnet__winforms' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "Azure/azure-sdk-for-go",
+      "error": "fatal: destination path 'cloned_repos\\Azure__azure-sdk-for-go' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "elastic/kibana",
+      "error": "fatal: destination path 'cloned_repos\\elastic__kibana' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "dotnet/fsharp",
+      "error": "fatal: destination path 'cloned_repos\\dotnet__fsharp' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "microsoft/FluidFramework",
+      "error": "fatal: destination path 'cloned_repos\\microsoft__FluidFramework' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "Azure/azure-sdk-for-net",
+      "error": "fatal: destination path 'cloned_repos\\Azure__azure-sdk-for-net' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "microsoft/typescript-go",
+      "error": "fatal: destination path 'cloned_repos\\microsoft__typescript-go' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "microsoft/vcpkg",
+      "error": "fatal: destination path 'cloned_repos\\microsoft__vcpkg' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "microsoft/react-native-windows",
+      "error": "fatal: destination path 'cloned_repos\\microsoft__react-native-windows' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "dotnet/maui",
+      "error": "fatal: destination path 'cloned_repos\\dotnet__maui' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "Expensify/App",
+      "error": "fatal: destination path 'cloned_repos\\Expensify__App' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "Particular/docs.particular.net",
+      "error": "fatal: destination path 'cloned_repos\\Particular__docs.particular.net' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "microsoft/fluentui",
+      "error": "fatal: destination path 'cloned_repos\\microsoft__fluentui' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "Azure/azure-sdk-for-java",
+      "error": "fatal: destination path 'cloned_repos\\Azure__azure-sdk-for-java' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "microsoft/vscode",
+      "error": "fatal: destination path 'cloned_repos\\microsoft__vscode' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "ray-project/ray",
+      "error": "fatal: destination path 'cloned_repos\\ray-project__ray' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "continuedev/continue",
+      "error": "fatal: destination path 'cloned_repos\\continuedev__continue' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "ethereum-optimism/optimism",
+      "error": "fatal: destination path 'cloned_repos\\ethereum-optimism__optimism' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "hashintel/hash",
+      "error": "fatal: destination path 'cloned_repos\\hashintel__hash' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "onyx-dot-app/onyx",
+      "error": "fatal: destination path 'cloned_repos\\onyx-dot-app__onyx' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "maximhq/bifrost",
+      "error": "fatal: destination path 'cloned_repos\\maximhq__bifrost' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "appsmithorg/appsmith",
+      "error": "fatal: destination path 'cloned_repos\\appsmithorg__appsmith' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "twentyhq/twenty",
+      "error": "fatal: destination path 'cloned_repos\\twentyhq__twenty' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "DataDog/dd-trace-java",
+      "error": "fatal: destination path 'cloned_repos\\DataDog__dd-trace-java' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "tldraw/tldraw",
+      "error": "fatal: destination path 'cloned_repos\\tldraw__tldraw' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "dust-tt/dust",
+      "error": "fatal: destination path 'cloned_repos\\dust-tt__dust' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "Comfy-Org/ComfyUI_frontend",
+      "error": "fatal: destination path 'cloned_repos\\Comfy-Org__ComfyUI_frontend' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "PX4/PX4-Autopilot",
+      "error": "fatal: destination path 'cloned_repos\\PX4__PX4-Autopilot' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "DataDog/datadog-agent",
+      "error": "fatal: destination path 'cloned_repos\\DataDog__datadog-agent' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "dartsim/dart",
+      "error": "fatal: destination path 'cloned_repos\\dartsim__dart' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "Nethereum/Nethereum",
+      "error": "fatal: destination path 'cloned_repos\\Nethereum__Nethereum' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "wandb/weave",
+      "error": "fatal: destination path 'cloned_repos\\wandb__weave' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "dagster-io/dagster",
+      "error": "fatal: destination path 'cloned_repos\\dagster-io__dagster' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "andrewm4894/anomstack",
+      "error": "fatal: destination path 'cloned_repos\\andrewm4894__anomstack' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "inline-chat/inline",
+      "error": "fatal: destination path 'cloned_repos\\inline-chat__inline' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "PostHog/posthog.com",
+      "error": "fatal: destination path 'cloned_repos\\PostHog__posthog.com' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "cypress-io/cypress",
+      "error": "fatal: destination path 'cloned_repos\\cypress-io__cypress' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "metabase/metabase",
+      "error": "fatal: destination path 'cloned_repos\\metabase__metabase' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "FastLED/FastLED",
+      "error": "fatal: destination path 'cloned_repos\\FastLED__FastLED' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "module-federation/core",
+      "error": "fatal: destination path 'cloned_repos\\module-federation__core' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "celo-org/celo-monorepo",
+      "error": "fatal: destination path 'cloned_repos\\celo-org__celo-monorepo' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "mattpocock/total-typescript-monorepo",
+      "error": "fatal: destination path 'cloned_repos\\mattpocock__total-typescript-monorepo' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "duneanalytics/spellbook",
+      "error": "fatal: destination path 'cloned_repos\\duneanalytics__spellbook' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "getsentry/sentry-docs",
+      "error": "fatal: destination path 'cloned_repos\\getsentry__sentry-docs' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "supabase/supabase",
+      "error": "fatal: destination path 'cloned_repos\\supabase__supabase' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "rilldata/rill",
+      "error": "fatal: destination path 'cloned_repos\\rilldata__rill' already exists and is not an empty directory."
+    },
+    {
+      "full_name": "whitphx/stlite",
+      "error": "fatal: destination path 'cloned_repos\\whitphx__stlite' already exists and is not an empty directory."
+    }
+  ]
+}

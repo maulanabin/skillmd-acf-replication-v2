@@ -1,0 +1,96 @@
+{
+  "definition": "project_owned_skill_count > 0 (agent-specific dirs only)",
+  "agent_dirs_checked": [
+    ".claude/skills",
+    ".codex/skills",
+    ".cursor/skills",
+    ".github/skills",
+    ".windsurf/skills"
+  ],
+  "total_repos_analyzed": 2725,
+  "excluded_unavailable": 82,
+  "group_distribution": {
+    "both": {
+      "count": 271,
+      "pct": 9.9
+    },
+    "only_acf": {
+      "count": 1051,
+      "pct": 38.6
+    },
+    "only_skills": {
+      "count": 26,
+      "pct": 1.0
+    },
+    "neither": {
+      "count": 1377,
+      "pct": 50.5
+    }
+  },
+  "repos_with_skills": 297,
+  "pct_with_skills": 10.9,
+  "total_project_owned_files": 1891,
+  "skill_count_stats": {
+    "repos": 297,
+    "total": 1891,
+    "mean": 6.37,
+    "median": 3,
+    "max": 116,
+    "min": 1
+  },
+  "agent_breakdown": {
+    "Claude_Code": {
+      "total": 208,
+      "with_skills": 42,
+      "pct_with_skills": 20.2,
+      "both": 40,
+      "only_skills": 2,
+      "only_acf": 102,
+      "neither": 64
+    },
+    "Copilot": {
+      "total": 971,
+      "with_skills": 139,
+      "pct_with_skills": 14.3,
+      "both": 125,
+      "only_skills": 14,
+      "only_acf": 393,
+      "neither": 439
+    },
+    "Cursor": {
+      "total": 222,
+      "with_skills": 24,
+      "pct_with_skills": 10.8,
+      "both": 22,
+      "only_skills": 2,
+      "only_acf": 96,
+      "neither": 102
+    },
+    "Devin": {
+      "total": 199,
+      "with_skills": 11,
+      "pct_with_skills": 5.5,
+      "both": 10,
+      "only_skills": 1,
+      "only_acf": 73,
+      "neither": 115
+    },
+    "OpenAI_Codex": {
+      "total": 1125,
+      "with_skills": 81,
+      "pct_with_skills": 7.2,
+      "both": 74,
+      "only_skills": 7,
+      "only_acf": 387,
+      "neither": 657
+    }
+  },
+  "narrative": "Of 2,725 AIDev repositories analyzed, 271 (9.9%) contain both an ACF and at least one project-owned SKILL.md file, 1,051 (38.6%) contain only an ACF, 26 (1.0%) contain only a SKILL.md, and 1,377 (50.5%) contain neither. In total, 297 repositories (10.9%) contain at least one project-owned SKILL.md file.",
+  "comparison_with_original": {
+    "original_repos_with_skills": 519,
+    "corrected_repos_with_skills": 297,
+    "original_total_files": 5498,
+    "corrected_total_files": 1891,
+    "note": "Original counted has_skill_md=True for any path including generic /skills/ dirs. Corrected uses only agent-specific directories (.claude/skills, .codex/skills, etc.)."
+  }
+}

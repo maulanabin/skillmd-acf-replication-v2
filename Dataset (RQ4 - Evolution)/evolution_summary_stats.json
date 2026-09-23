@@ -1,0 +1,53 @@
+{
+  "total_files_analyzed": 1183,
+  "files_never_modified": 541,
+  "files_modified_at_least_once": 642,
+  "modification_type_counts": {
+    "content_update": 696,
+    "minor_fix": 591,
+    "rename_or_move": 215,
+    "deletion": 43,
+    "bulk_import": 5
+  },
+  "provenance_shift_counts": {
+    "none": 1160,
+    "scratch_then_abandoned": 7,
+    "marketplace_to_custom": 16
+  },
+  "median_lifespan_days": 0.0,
+  "per_agent_breakdown": {
+    "Claude_Code": {
+      "total": 188,
+      "with_modifications": 150
+    },
+    "Copilot": {
+      "total": 455,
+      "with_modifications": 193
+    },
+    "OpenAI_Codex": {
+      "total": 414,
+      "with_modifications": 240
+    },
+    "Cursor": {
+      "total": 106,
+      "with_modifications": 50
+    },
+    "Devin": {
+      "total": 20,
+      "with_modifications": 9
+    }
+  },
+  "errors_count": 10,
+  "errors_sample": [
+    "browseros-ai__BrowserOS/packages/browseros-agent/.claude/skills/dev-debug/SKILL.md: git log failed \u2014 ",
+    "browseros-ai__BrowserOS/packages/browseros-agent/.claude/skills/dev/SKILL.md: git log failed \u2014 ",
+    "browseros-ai__BrowserOS/packages/browseros-agent/.claude/skills/dev1-start/SKILL.md: git log failed \u2014 ",
+    "browseros-ai__BrowserOS/packages/browseros-agent/.claude/skills/dev2-design/SKILL.md: git log failed \u2014 ",
+    "browseros-ai__BrowserOS/packages/browseros-agent/.claude/skills/dev3-prd/SKILL.md: git log failed \u2014 ",
+    "browseros-ai__BrowserOS/packages/browseros-agent/.claude/skills/dev4-implement/SKILL.md: git log failed \u2014 ",
+    "browseros-ai__BrowserOS/packages/browseros-agent/.claude/skills/dev5-review/SKILL.md: git log failed \u2014 ",
+    "browseros-ai__BrowserOS/packages/browseros-agent/.claude/skills/dev6-review-fix/SKILL.md: git log failed \u2014 ",
+    "browseros-ai__BrowserOS/packages/browseros-agent/.claude/skills/dev7-pr/SKILL.md: git log failed \u2014 ",
+    "browseros-ai__BrowserOS/packages/browseros-agent/.claude/skills/ts-style-review/SKILL.md: git log failed \u2014 "
+  ]
+}

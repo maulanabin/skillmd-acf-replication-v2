@@ -1,0 +1,1253 @@
+[
+  {
+    "repo": "Arenukvern/mcp_flutter",
+    "agent": "Cursor",
+    "acf_tokens": 1,
+    "skill_count": 6,
+    "mean_tokens_per_skill": 556.8,
+    "token_saving_per_invoke": -555.8,
+    "token_saving_pct": -55583.3
+  },
+  {
+    "repo": "Arize-ai/openinference",
+    "agent": "Cursor",
+    "acf_tokens": 1,
+    "skill_count": 2,
+    "mean_tokens_per_skill": 1658.5,
+    "token_saving_per_invoke": -1657.5,
+    "token_saving_pct": -165750.0
+  },
+  {
+    "repo": "Azure-Samples/azure-search-openai-demo",
+    "agent": "Copilot",
+    "acf_tokens": 2129,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 574.0,
+    "token_saving_per_invoke": 1555.0,
+    "token_saving_pct": 73.0
+  },
+  {
+    "repo": "Azure/azure-container-networking",
+    "agent": "Copilot",
+    "acf_tokens": 19,
+    "skill_count": 8,
+    "mean_tokens_per_skill": 2173.5,
+    "token_saving_per_invoke": -2154.5,
+    "token_saving_pct": -11339.5
+  },
+  {
+    "repo": "Azure/azure-dev",
+    "agent": "Copilot",
+    "acf_tokens": 1,
+    "skill_count": 6,
+    "mean_tokens_per_skill": 1166.7,
+    "token_saving_per_invoke": -1165.7,
+    "token_saving_pct": -116566.7
+  },
+  {
+    "repo": "Azure/azure-sdk-for-cpp",
+    "agent": "Copilot",
+    "acf_tokens": 1849,
+    "skill_count": 5,
+    "mean_tokens_per_skill": 443.4,
+    "token_saving_per_invoke": 1405.6,
+    "token_saving_pct": 76.0
+  },
+  {
+    "repo": "Azure/azure-sdk-for-rust",
+    "agent": "Copilot",
+    "acf_tokens": 2389,
+    "skill_count": 6,
+    "mean_tokens_per_skill": 1021.5,
+    "token_saving_per_invoke": 1367.5,
+    "token_saving_pct": 57.2
+  },
+  {
+    "repo": "AzureAD/microsoft-identity-web",
+    "agent": "Copilot",
+    "acf_tokens": 2536,
+    "skill_count": 2,
+    "mean_tokens_per_skill": 3229.5,
+    "token_saving_per_invoke": -693.5,
+    "token_saving_pct": -27.3
+  },
+  {
+    "repo": "BoldGrid/w3-total-cache",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 1140,
+    "skill_count": 3,
+    "mean_tokens_per_skill": 6791.3,
+    "token_saving_per_invoke": -5651.3,
+    "token_saving_pct": -495.7
+  },
+  {
+    "repo": "GitTools/GitVersion",
+    "agent": "Copilot",
+    "acf_tokens": 793,
+    "skill_count": 3,
+    "mean_tokens_per_skill": 702.7,
+    "token_saving_per_invoke": 90.3,
+    "token_saving_pct": 11.4
+  },
+  {
+    "repo": "JanDeDobbeleer/oh-my-posh",
+    "agent": "Copilot",
+    "acf_tokens": 464,
+    "skill_count": 2,
+    "mean_tokens_per_skill": 829.0,
+    "token_saving_per_invoke": -365.0,
+    "token_saving_pct": -78.7
+  },
+  {
+    "repo": "JhumanJ/OpnForm",
+    "agent": "Cursor",
+    "acf_tokens": 703,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 757.0,
+    "token_saving_per_invoke": -54.0,
+    "token_saving_pct": -7.7
+  },
+  {
+    "repo": "JonasKruckenberg/k23",
+    "agent": "Claude_Code",
+    "acf_tokens": 1,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 2958.0,
+    "token_saving_per_invoke": -2957.0,
+    "token_saving_pct": -295700.0
+  },
+  {
+    "repo": "Layr-Labs/eigenlayer-contracts",
+    "agent": "Devin",
+    "acf_tokens": 479,
+    "skill_count": 4,
+    "mean_tokens_per_skill": 1635.2,
+    "token_saving_per_invoke": -1156.2,
+    "token_saving_pct": -241.4
+  },
+  {
+    "repo": "MixinNetwork/flutter-plugins",
+    "agent": "Copilot",
+    "acf_tokens": 635,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 885.0,
+    "token_saving_per_invoke": -250.0,
+    "token_saving_pct": -39.4
+  },
+  {
+    "repo": "Mr-Quin/danmaku-anywhere",
+    "agent": "Copilot",
+    "acf_tokens": 1617,
+    "skill_count": 6,
+    "mean_tokens_per_skill": 815.0,
+    "token_saving_per_invoke": 802.0,
+    "token_saving_pct": 49.6
+  },
+  {
+    "repo": "Myriad-Dreamin/tinymist",
+    "agent": "Copilot",
+    "acf_tokens": 1093,
+    "skill_count": 7,
+    "mean_tokens_per_skill": 2140.4,
+    "token_saving_per_invoke": -1047.4,
+    "token_saving_pct": -95.8
+  },
+  {
+    "repo": "PRQL/prql",
+    "agent": "Claude_Code",
+    "acf_tokens": 704,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 471.0,
+    "token_saving_per_invoke": 233.0,
+    "token_saving_pct": 33.1
+  },
+  {
+    "repo": "PrefectHQ/prefect",
+    "agent": "Claude_Code",
+    "acf_tokens": 1405,
+    "skill_count": 4,
+    "mean_tokens_per_skill": 2160.2,
+    "token_saving_per_invoke": -755.2,
+    "token_saving_pct": -53.8
+  },
+  {
+    "repo": "ShapeCrawler/ShapeCrawler",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 1,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 169.0,
+    "token_saving_per_invoke": -168.0,
+    "token_saving_pct": -16800.0
+  },
+  {
+    "repo": "Shelf-nu/shelf.nu",
+    "agent": "Claude_Code",
+    "acf_tokens": 5033,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 235.0,
+    "token_saving_per_invoke": 4798.0,
+    "token_saving_pct": 95.3
+  },
+  {
+    "repo": "Skyvern-AI/skyvern",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 670,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 834.0,
+    "token_saving_per_invoke": -164.0,
+    "token_saving_pct": -24.5
+  },
+  {
+    "repo": "SuperClaude-Org/SuperClaude_Framework",
+    "agent": "Claude_Code",
+    "acf_tokens": 1918,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 616.0,
+    "token_saving_per_invoke": 1302.0,
+    "token_saving_pct": 67.9
+  },
+  {
+    "repo": "SwitchbackTech/compass",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 266,
+    "skill_count": 6,
+    "mean_tokens_per_skill": 1071.3,
+    "token_saving_per_invoke": -805.3,
+    "token_saving_pct": -302.8
+  },
+  {
+    "repo": "Vocab-Apps/anki-hyper-tts",
+    "agent": "Copilot",
+    "acf_tokens": 560,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 1233.0,
+    "token_saving_per_invoke": -673.0,
+    "token_saving_pct": -120.2
+  },
+  {
+    "repo": "actualbudget/actual",
+    "agent": "Cursor",
+    "acf_tokens": 2,
+    "skill_count": 3,
+    "mean_tokens_per_skill": 1173.3,
+    "token_saving_per_invoke": -1171.3,
+    "token_saving_pct": -58566.7
+  },
+  {
+    "repo": "adaline/gateway",
+    "agent": "Devin",
+    "acf_tokens": 856,
+    "skill_count": 2,
+    "mean_tokens_per_skill": 129.5,
+    "token_saving_per_invoke": 726.5,
+    "token_saving_pct": 84.9
+  },
+  {
+    "repo": "afadil/wealthfolio",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 851,
+    "skill_count": 2,
+    "mean_tokens_per_skill": 299.5,
+    "token_saving_per_invoke": 551.5,
+    "token_saving_pct": 64.8
+  },
+  {
+    "repo": "alefragnani/vscode-bookmarks",
+    "agent": "Copilot",
+    "acf_tokens": 105,
+    "skill_count": 2,
+    "mean_tokens_per_skill": 280.0,
+    "token_saving_per_invoke": -175.0,
+    "token_saving_pct": -166.7
+  },
+  {
+    "repo": "allenai/open-instruct",
+    "agent": "Claude_Code",
+    "acf_tokens": 1,
+    "skill_count": 2,
+    "mean_tokens_per_skill": 254.5,
+    "token_saving_per_invoke": -253.5,
+    "token_saving_pct": -25350.0
+  },
+  {
+    "repo": "ant-design/ant-design-pro",
+    "agent": "Copilot",
+    "acf_tokens": 1099,
+    "skill_count": 2,
+    "mean_tokens_per_skill": 1439.5,
+    "token_saving_per_invoke": -340.5,
+    "token_saving_pct": -31.0
+  },
+  {
+    "repo": "apache/pinot",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 1493,
+    "skill_count": 13,
+    "mean_tokens_per_skill": 185.1,
+    "token_saving_per_invoke": 1307.9,
+    "token_saving_pct": 87.6
+  },
+  {
+    "repo": "artsy/eigen",
+    "agent": "Claude_Code",
+    "acf_tokens": 5,
+    "skill_count": 3,
+    "mean_tokens_per_skill": 561.0,
+    "token_saving_per_invoke": -556.0,
+    "token_saving_pct": -11120.0
+  },
+  {
+    "repo": "artsy/force",
+    "agent": "Claude_Code",
+    "acf_tokens": 2,
+    "skill_count": 3,
+    "mean_tokens_per_skill": 516.3,
+    "token_saving_per_invoke": -514.3,
+    "token_saving_pct": -25716.7
+  },
+  {
+    "repo": "assistant-ui/assistant-ui",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 1,
+    "skill_count": 2,
+    "mean_tokens_per_skill": 1461.5,
+    "token_saving_per_invoke": -1460.5,
+    "token_saving_pct": -146050.0
+  },
+  {
+    "repo": "browseros-ai/BrowserOS",
+    "agent": "Copilot",
+    "acf_tokens": 67,
+    "skill_count": 28,
+    "mean_tokens_per_skill": 1094.4,
+    "token_saving_per_invoke": -1027.4,
+    "token_saving_pct": -1533.4
+  },
+  {
+    "repo": "bruin-data/bruin",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 1,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 5285.0,
+    "token_saving_per_invoke": -5284.0,
+    "token_saving_pct": -528400.0
+  },
+  {
+    "repo": "buger/probe",
+    "agent": "Claude_Code",
+    "acf_tokens": 6870,
+    "skill_count": 5,
+    "mean_tokens_per_skill": 16.4,
+    "token_saving_per_invoke": 6853.6,
+    "token_saving_pct": 99.8
+  },
+  {
+    "repo": "chsami/Microbot",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 1,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 2574.0,
+    "token_saving_per_invoke": -2573.0,
+    "token_saving_pct": -257300.0
+  },
+  {
+    "repo": "cloudposse/atmos",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 4041,
+    "skill_count": 2,
+    "mean_tokens_per_skill": 1532.5,
+    "token_saving_per_invoke": 2508.5,
+    "token_saving_pct": 62.1
+  },
+  {
+    "repo": "collinbarrett/FilterLists",
+    "agent": "Copilot",
+    "acf_tokens": 674,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 2328.0,
+    "token_saving_per_invoke": -1654.0,
+    "token_saving_pct": -245.4
+  },
+  {
+    "repo": "d-kuro/gwq",
+    "agent": "Claude_Code",
+    "acf_tokens": 191,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 1111.0,
+    "token_saving_per_invoke": -920.0,
+    "token_saving_pct": -481.7
+  },
+  {
+    "repo": "dailydotdev/apps",
+    "agent": "Cursor",
+    "acf_tokens": 1,
+    "skill_count": 3,
+    "mean_tokens_per_skill": 589.0,
+    "token_saving_per_invoke": -588.0,
+    "token_saving_pct": -58800.0
+  },
+  {
+    "repo": "databuddy-analytics/Databuddy",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 1567,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 1305.0,
+    "token_saving_per_invoke": 262.0,
+    "token_saving_pct": 16.7
+  },
+  {
+    "repo": "dcSpark/shinkai-local-ai-agents",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 391,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 503.0,
+    "token_saving_per_invoke": -112.0,
+    "token_saving_pct": -28.6
+  },
+  {
+    "repo": "deco-cx/chat",
+    "agent": "Cursor",
+    "acf_tokens": 1,
+    "skill_count": 5,
+    "mean_tokens_per_skill": 1065.2,
+    "token_saving_per_invoke": -1064.2,
+    "token_saving_pct": -106420.0
+  },
+  {
+    "repo": "dlt-hub/dlt",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 1,
+    "skill_count": 13,
+    "mean_tokens_per_skill": 725.8,
+    "token_saving_per_invoke": -724.8,
+    "token_saving_pct": -72484.6
+  },
+  {
+    "repo": "dotnet/SqlClient",
+    "agent": "Copilot",
+    "acf_tokens": 1058,
+    "skill_count": 2,
+    "mean_tokens_per_skill": 1247.5,
+    "token_saving_per_invoke": -189.5,
+    "token_saving_pct": -17.9
+  },
+  {
+    "repo": "dotnet/diagnostics",
+    "agent": "Copilot",
+    "acf_tokens": 2631,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 638.0,
+    "token_saving_per_invoke": 1993.0,
+    "token_saving_pct": 75.8
+  },
+  {
+    "repo": "dotnet/docs-desktop",
+    "agent": "Copilot",
+    "acf_tokens": 44,
+    "skill_count": 2,
+    "mean_tokens_per_skill": 574.0,
+    "token_saving_per_invoke": -530.0,
+    "token_saving_pct": -1204.5
+  },
+  {
+    "repo": "dotnet/msbuild",
+    "agent": "Copilot",
+    "acf_tokens": 1782,
+    "skill_count": 17,
+    "mean_tokens_per_skill": 1448.6,
+    "token_saving_per_invoke": 333.4,
+    "token_saving_pct": 18.7
+  },
+  {
+    "repo": "dropseed/plain",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 1475,
+    "skill_count": 16,
+    "mean_tokens_per_skill": 485.8,
+    "token_saving_per_invoke": 989.2,
+    "token_saving_pct": 67.1
+  },
+  {
+    "repo": "elie222/inbox-zero",
+    "agent": "Cursor",
+    "acf_tokens": 1,
+    "skill_count": 28,
+    "mean_tokens_per_skill": 682.5,
+    "token_saving_per_invoke": -681.5,
+    "token_saving_pct": -68153.6
+  },
+  {
+    "repo": "elixr-games/elics",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 613,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 647.0,
+    "token_saving_per_invoke": -34.0,
+    "token_saving_pct": -5.5
+  },
+  {
+    "repo": "elsa-workflows/elsa-core",
+    "agent": "Copilot",
+    "acf_tokens": 291,
+    "skill_count": 15,
+    "mean_tokens_per_skill": 1235.7,
+    "token_saving_per_invoke": -944.7,
+    "token_saving_pct": -324.7
+  },
+  {
+    "repo": "enviodev/hyperindex",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 484,
+    "skill_count": 16,
+    "mean_tokens_per_skill": 500.2,
+    "token_saving_per_invoke": -16.2,
+    "token_saving_pct": -3.3
+  },
+  {
+    "repo": "evstack/ev-node",
+    "agent": "Copilot",
+    "acf_tokens": 5,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 1246.0,
+    "token_saving_per_invoke": -1241.0,
+    "token_saving_pct": -24820.0
+  },
+  {
+    "repo": "gacela-project/gacela",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 444,
+    "skill_count": 8,
+    "mean_tokens_per_skill": 263.5,
+    "token_saving_per_invoke": 180.5,
+    "token_saving_pct": 40.7
+  },
+  {
+    "repo": "getsentry/sentry-java",
+    "agent": "Cursor",
+    "acf_tokens": 68,
+    "skill_count": 4,
+    "mean_tokens_per_skill": 1922.5,
+    "token_saving_per_invoke": -1854.5,
+    "token_saving_pct": -2727.2
+  },
+  {
+    "repo": "getsentry/sentry-unreal",
+    "agent": "Cursor",
+    "acf_tokens": 2308,
+    "skill_count": 4,
+    "mean_tokens_per_skill": 308.8,
+    "token_saving_per_invoke": 1999.2,
+    "token_saving_pct": 86.6
+  },
+  {
+    "repo": "giselles-ai/giselle",
+    "agent": "Claude_Code",
+    "acf_tokens": 1,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 470.0,
+    "token_saving_per_invoke": -469.0,
+    "token_saving_pct": -46900.0
+  },
+  {
+    "repo": "gitkraken/vscode-gitlens",
+    "agent": "Copilot",
+    "acf_tokens": 1,
+    "skill_count": 28,
+    "mean_tokens_per_skill": 1993.8,
+    "token_saving_per_invoke": -1992.8,
+    "token_saving_pct": -199275.0
+  },
+  {
+    "repo": "go-vikunja/vikunja",
+    "agent": "Copilot",
+    "acf_tokens": 1,
+    "skill_count": 2,
+    "mean_tokens_per_skill": 556.5,
+    "token_saving_per_invoke": -555.5,
+    "token_saving_pct": -55550.0
+  },
+  {
+    "repo": "halo-dev/halo",
+    "agent": "Copilot",
+    "acf_tokens": 1,
+    "skill_count": 12,
+    "mean_tokens_per_skill": 1014.5,
+    "token_saving_per_invoke": -1013.5,
+    "token_saving_pct": -101350.0
+  },
+  {
+    "repo": "hathach/tinyusb",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 1,
+    "skill_count": 2,
+    "mean_tokens_per_skill": 606.0,
+    "token_saving_per_invoke": -605.0,
+    "token_saving_pct": -60500.0
+  },
+  {
+    "repo": "hmislk/hmis",
+    "agent": "Claude_Code",
+    "acf_tokens": 1675,
+    "skill_count": 14,
+    "mean_tokens_per_skill": 407.8,
+    "token_saving_per_invoke": 1267.2,
+    "token_saving_pct": 75.7
+  },
+  {
+    "repo": "iopsystems/rezolus",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 1407,
+    "skill_count": 4,
+    "mean_tokens_per_skill": 643.8,
+    "token_saving_per_invoke": 763.2,
+    "token_saving_pct": 54.2
+  },
+  {
+    "repo": "jihadkhawaja/Egroo",
+    "agent": "Copilot",
+    "acf_tokens": 517,
+    "skill_count": 3,
+    "mean_tokens_per_skill": 926.7,
+    "token_saving_per_invoke": -409.7,
+    "token_saving_pct": -79.2
+  },
+  {
+    "repo": "jlowin/fastmcp",
+    "agent": "Claude_Code",
+    "acf_tokens": 3052,
+    "skill_count": 4,
+    "mean_tokens_per_skill": 1228.8,
+    "token_saving_per_invoke": 1823.2,
+    "token_saving_pct": 59.7
+  },
+  {
+    "repo": "joshukraine/dotfiles",
+    "agent": "Claude_Code",
+    "acf_tokens": 978,
+    "skill_count": 15,
+    "mean_tokens_per_skill": 1277.1,
+    "token_saving_per_invoke": -299.1,
+    "token_saving_pct": -30.6
+  },
+  {
+    "repo": "kodustech/kodus-ai",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 696,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 1669.0,
+    "token_saving_per_invoke": -973.0,
+    "token_saving_pct": -139.8
+  },
+  {
+    "repo": "kortix-ai/suna",
+    "agent": "Cursor",
+    "acf_tokens": 913,
+    "skill_count": 3,
+    "mean_tokens_per_skill": 1180.7,
+    "token_saving_per_invoke": -267.7,
+    "token_saving_pct": -29.3
+  },
+  {
+    "repo": "ktorio/ktor",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 1,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 2013.0,
+    "token_saving_per_invoke": -2012.0,
+    "token_saving_pct": -201200.0
+  },
+  {
+    "repo": "kube-hetzner/terraform-hcloud-kube-hetzner",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 1,
+    "skill_count": 7,
+    "mean_tokens_per_skill": 1519.0,
+    "token_saving_per_invoke": -1518.0,
+    "token_saving_pct": -151800.0
+  },
+  {
+    "repo": "kubetail-org/kubetail",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 1097,
+    "skill_count": 2,
+    "mean_tokens_per_skill": 582.5,
+    "token_saving_per_invoke": 514.5,
+    "token_saving_pct": 46.9
+  },
+  {
+    "repo": "lidofinance/diffyscan",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 562,
+    "skill_count": 4,
+    "mean_tokens_per_skill": 1346.2,
+    "token_saving_per_invoke": -784.2,
+    "token_saving_pct": -139.5
+  },
+  {
+    "repo": "lightdash/lightdash",
+    "agent": "Cursor",
+    "acf_tokens": 3257,
+    "skill_count": 11,
+    "mean_tokens_per_skill": 1617.6,
+    "token_saving_per_invoke": 1639.4,
+    "token_saving_pct": 50.3
+  },
+  {
+    "repo": "livingbio/typed-ffmpeg",
+    "agent": "Copilot",
+    "acf_tokens": 184,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 2533.0,
+    "token_saving_per_invoke": -2349.0,
+    "token_saving_pct": -1276.6
+  },
+  {
+    "repo": "logiscape/mcp-sdk-php",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 1,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 201.0,
+    "token_saving_per_invoke": -200.0,
+    "token_saving_pct": -20000.0
+  },
+  {
+    "repo": "longbridge/gpui-component",
+    "agent": "Copilot",
+    "acf_tokens": 1220,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 149.0,
+    "token_saving_per_invoke": 1071.0,
+    "token_saving_pct": 87.8
+  },
+  {
+    "repo": "lumen-notes/lumen",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 738,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 709.0,
+    "token_saving_per_invoke": 29.0,
+    "token_saving_pct": 3.9
+  },
+  {
+    "repo": "macalbert/envilder",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 23,
+    "skill_count": 31,
+    "mean_tokens_per_skill": 820.2,
+    "token_saving_per_invoke": -797.2,
+    "token_saving_pct": -3466.1
+  },
+  {
+    "repo": "markuplint/markuplint",
+    "agent": "Copilot",
+    "acf_tokens": 1376,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 995.0,
+    "token_saving_per_invoke": 381.0,
+    "token_saving_pct": 27.7
+  },
+  {
+    "repo": "mediar-ai/terminator",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 262,
+    "skill_count": 2,
+    "mean_tokens_per_skill": 989.5,
+    "token_saving_per_invoke": -727.5,
+    "token_saving_pct": -277.7
+  },
+  {
+    "repo": "microsoft/PowerToys",
+    "agent": "Copilot",
+    "acf_tokens": 1119,
+    "skill_count": 8,
+    "mean_tokens_per_skill": 978.6,
+    "token_saving_per_invoke": 140.4,
+    "token_saving_pct": 12.5
+  },
+  {
+    "repo": "microsoft/playwright",
+    "agent": "Copilot",
+    "acf_tokens": 1220,
+    "skill_count": 2,
+    "mean_tokens_per_skill": 137.5,
+    "token_saving_per_invoke": 1082.5,
+    "token_saving_pct": 88.7
+  },
+  {
+    "repo": "microsoft/playwright-dotnet",
+    "agent": "Copilot",
+    "acf_tokens": 553,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 1348.0,
+    "token_saving_per_invoke": -795.0,
+    "token_saving_pct": -143.8
+  },
+  {
+    "repo": "microsoft/powerplatform-vscode",
+    "agent": "Copilot",
+    "acf_tokens": 742,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 828.0,
+    "token_saving_per_invoke": -86.0,
+    "token_saving_pct": -11.6
+  },
+  {
+    "repo": "microsoft/testfx",
+    "agent": "Copilot",
+    "acf_tokens": 2008,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 698.0,
+    "token_saving_per_invoke": 1310.0,
+    "token_saving_pct": 65.2
+  },
+  {
+    "repo": "microsoft/vstest",
+    "agent": "Copilot",
+    "acf_tokens": 812,
+    "skill_count": 5,
+    "mean_tokens_per_skill": 944.6,
+    "token_saving_per_invoke": -132.6,
+    "token_saving_pct": -16.3
+  },
+  {
+    "repo": "mizchi/similarity",
+    "agent": "Claude_Code",
+    "acf_tokens": 494,
+    "skill_count": 5,
+    "mean_tokens_per_skill": 514.4,
+    "token_saving_per_invoke": -20.4,
+    "token_saving_pct": -4.1
+  },
+  {
+    "repo": "mondaycom/vibe",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 950,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 3582.0,
+    "token_saving_per_invoke": -2632.0,
+    "token_saving_pct": -277.1
+  },
+  {
+    "repo": "near/nearcore",
+    "agent": "Devin",
+    "acf_tokens": 1,
+    "skill_count": 2,
+    "mean_tokens_per_skill": 943.0,
+    "token_saving_per_invoke": -942.0,
+    "token_saving_pct": -94200.0
+  },
+  {
+    "repo": "neohaskell/NeoHaskell",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 673,
+    "skill_count": 112,
+    "mean_tokens_per_skill": 589.0,
+    "token_saving_per_invoke": 84.0,
+    "token_saving_pct": 12.5
+  },
+  {
+    "repo": "neoneye/PlanExe",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 1238,
+    "skill_count": 10,
+    "mean_tokens_per_skill": 1434.2,
+    "token_saving_per_invoke": -196.2,
+    "token_saving_pct": -15.8
+  },
+  {
+    "repo": "nodetool-ai/nodetool",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 2676,
+    "skill_count": 12,
+    "mean_tokens_per_skill": 1467.1,
+    "token_saving_per_invoke": 1208.9,
+    "token_saving_pct": 45.2
+  },
+  {
+    "repo": "nrwl/nx-console",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 624,
+    "skill_count": 12,
+    "mean_tokens_per_skill": 1552.5,
+    "token_saving_per_invoke": -928.5,
+    "token_saving_pct": -148.8
+  },
+  {
+    "repo": "numbagg/numbagg",
+    "agent": "Claude_Code",
+    "acf_tokens": 379,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 241.0,
+    "token_saving_per_invoke": 138.0,
+    "token_saving_pct": 36.4
+  },
+  {
+    "repo": "openai/codex",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 3745,
+    "skill_count": 12,
+    "mean_tokens_per_skill": 646.8,
+    "token_saving_per_invoke": 3098.2,
+    "token_saving_pct": 82.7
+  },
+  {
+    "repo": "openops-cloud/openops",
+    "agent": "Copilot",
+    "acf_tokens": 906,
+    "skill_count": 2,
+    "mean_tokens_per_skill": 1412.0,
+    "token_saving_per_invoke": -506.0,
+    "token_saving_pct": -55.8
+  },
+  {
+    "repo": "openshift-pipelines/pipelines-as-code",
+    "agent": "Copilot",
+    "acf_tokens": 1,
+    "skill_count": 2,
+    "mean_tokens_per_skill": 1679.5,
+    "token_saving_per_invoke": -1678.5,
+    "token_saving_pct": -167850.0
+  },
+  {
+    "repo": "owid/owid-grapher",
+    "agent": "Copilot",
+    "acf_tokens": 1101,
+    "skill_count": 2,
+    "mean_tokens_per_skill": 513.0,
+    "token_saving_per_invoke": 588.0,
+    "token_saving_pct": 53.4
+  },
+  {
+    "repo": "pavelzbornik/whisperX-FastAPI",
+    "agent": "Copilot",
+    "acf_tokens": 1894,
+    "skill_count": 2,
+    "mean_tokens_per_skill": 190.0,
+    "token_saving_per_invoke": 1704.0,
+    "token_saving_pct": 90.0
+  },
+  {
+    "repo": "pelikan-io/pelikan",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 743,
+    "skill_count": 2,
+    "mean_tokens_per_skill": 472.0,
+    "token_saving_per_invoke": 271.0,
+    "token_saving_pct": 36.5
+  },
+  {
+    "repo": "pgdogdev/pgdog",
+    "agent": "Copilot",
+    "acf_tokens": 200,
+    "skill_count": 2,
+    "mean_tokens_per_skill": 693.5,
+    "token_saving_per_invoke": -493.5,
+    "token_saving_pct": -246.7
+  },
+  {
+    "repo": "philosowaffle/peloton-to-garmin",
+    "agent": "Cursor",
+    "acf_tokens": 2375,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 765.0,
+    "token_saving_per_invoke": 1610.0,
+    "token_saving_pct": 67.8
+  },
+  {
+    "repo": "plastic-labs/honcho",
+    "agent": "Devin",
+    "acf_tokens": 3097,
+    "skill_count": 4,
+    "mean_tokens_per_skill": 1700.8,
+    "token_saving_per_invoke": 1396.2,
+    "token_saving_pct": 45.1
+  },
+  {
+    "repo": "princeton-pli/hal-harness",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 154,
+    "skill_count": 2,
+    "mean_tokens_per_skill": 706.0,
+    "token_saving_per_invoke": -552.0,
+    "token_saving_pct": -358.4
+  },
+  {
+    "repo": "pushpalroy/JetLime",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 949,
+    "skill_count": 3,
+    "mean_tokens_per_skill": 1482.0,
+    "token_saving_per_invoke": -533.0,
+    "token_saving_pct": -56.2
+  },
+  {
+    "repo": "qltysh/qlty",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 377,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 1800.0,
+    "token_saving_per_invoke": -1423.0,
+    "token_saving_pct": -377.5
+  },
+  {
+    "repo": "quay/quay",
+    "agent": "Claude_Code",
+    "acf_tokens": 3,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 2557.0,
+    "token_saving_per_invoke": -2554.0,
+    "token_saving_pct": -85133.3
+  },
+  {
+    "repo": "reactjs/ko.react.dev",
+    "agent": "Copilot",
+    "acf_tokens": 274,
+    "skill_count": 10,
+    "mean_tokens_per_skill": 1829.9,
+    "token_saving_per_invoke": -1555.9,
+    "token_saving_pct": -567.8
+  },
+  {
+    "repo": "receptron/mulmocast-cli",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 1531,
+    "skill_count": 7,
+    "mean_tokens_per_skill": 1343.4,
+    "token_saving_per_invoke": 187.6,
+    "token_saving_pct": 12.3
+  },
+  {
+    "repo": "rendercv/rendercv",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 596,
+    "skill_count": 6,
+    "mean_tokens_per_skill": 654.0,
+    "token_saving_per_invoke": -58.0,
+    "token_saving_pct": -9.7
+  },
+  {
+    "repo": "roboflow/inference",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 525,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 3051.0,
+    "token_saving_per_invoke": -2526.0,
+    "token_saving_pct": -481.1
+  },
+  {
+    "repo": "robusta-dev/holmesgpt",
+    "agent": "Claude_Code",
+    "acf_tokens": 8076,
+    "skill_count": 2,
+    "mean_tokens_per_skill": 1239.0,
+    "token_saving_per_invoke": 6837.0,
+    "token_saving_pct": 84.7
+  },
+  {
+    "repo": "ruvnet/claude-flow",
+    "agent": "Claude_Code",
+    "acf_tokens": 7827,
+    "skill_count": 72,
+    "mean_tokens_per_skill": 2354.0,
+    "token_saving_per_invoke": 5473.0,
+    "token_saving_pct": 69.9
+  },
+  {
+    "repo": "ruvnet/ruv-FANN",
+    "agent": "Claude_Code",
+    "acf_tokens": 1242,
+    "skill_count": 30,
+    "mean_tokens_per_skill": 2379.6,
+    "token_saving_per_invoke": -1137.6,
+    "token_saving_pct": -91.6
+  },
+  {
+    "repo": "ryokun6/ryos",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 1653,
+    "skill_count": 4,
+    "mean_tokens_per_skill": 908.5,
+    "token_saving_per_invoke": 744.5,
+    "token_saving_pct": 45.0
+  },
+  {
+    "repo": "safe-global/safe-wallet-monorepo",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 13,
+    "skill_count": 6,
+    "mean_tokens_per_skill": 927.5,
+    "token_saving_per_invoke": -914.5,
+    "token_saving_pct": -7034.6
+  },
+  {
+    "repo": "saleor/apps",
+    "agent": "Copilot",
+    "acf_tokens": 1,
+    "skill_count": 2,
+    "mean_tokens_per_skill": 478.0,
+    "token_saving_per_invoke": -477.0,
+    "token_saving_pct": -47700.0
+  },
+  {
+    "repo": "saleor/saleor",
+    "agent": "Copilot",
+    "acf_tokens": 1,
+    "skill_count": 4,
+    "mean_tokens_per_skill": 742.8,
+    "token_saving_per_invoke": -741.8,
+    "token_saving_pct": -74175.0
+  },
+  {
+    "repo": "seasonedcc/remix-forms",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 867,
+    "skill_count": 3,
+    "mean_tokens_per_skill": 2322.3,
+    "token_saving_per_invoke": -1455.3,
+    "token_saving_pct": -167.9
+  },
+  {
+    "repo": "selfxyz/self",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 1223,
+    "skill_count": 5,
+    "mean_tokens_per_skill": 1339.0,
+    "token_saving_per_invoke": -116.0,
+    "token_saving_pct": -9.5
+  },
+  {
+    "repo": "shader-slang/slang",
+    "agent": "Copilot",
+    "acf_tokens": 2672,
+    "skill_count": 10,
+    "mean_tokens_per_skill": 1303.8,
+    "token_saving_per_invoke": 1368.2,
+    "token_saving_pct": 51.2
+  },
+  {
+    "repo": "shugo/textbringer",
+    "agent": "Copilot",
+    "acf_tokens": 980,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 1223.0,
+    "token_saving_per_invoke": -243.0,
+    "token_saving_pct": -24.8
+  },
+  {
+    "repo": "stargately/beancount-mobile",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 375,
+    "skill_count": 2,
+    "mean_tokens_per_skill": 1875.0,
+    "token_saving_per_invoke": -1500.0,
+    "token_saving_pct": -400.0
+  },
+  {
+    "repo": "tambo-ai/tambo",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 254,
+    "skill_count": 6,
+    "mean_tokens_per_skill": 1296.8,
+    "token_saving_per_invoke": -1042.8,
+    "token_saving_pct": -410.6
+  },
+  {
+    "repo": "tegnike/aituber-kit",
+    "agent": "Devin",
+    "acf_tokens": 1267,
+    "skill_count": 3,
+    "mean_tokens_per_skill": 1103.7,
+    "token_saving_per_invoke": 163.3,
+    "token_saving_pct": 12.9
+  },
+  {
+    "repo": "temporalio/temporal",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 1563,
+    "skill_count": 1,
+    "mean_tokens_per_skill": 102.0,
+    "token_saving_per_invoke": 1461.0,
+    "token_saving_pct": 93.5
+  },
+  {
+    "repo": "temporalio/ui",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 417,
+    "skill_count": 4,
+    "mean_tokens_per_skill": 759.8,
+    "token_saving_per_invoke": -342.8,
+    "token_saving_pct": -82.2
+  },
+  {
+    "repo": "theepicsaxguy/homelab",
+    "agent": "Copilot",
+    "acf_tokens": 1201,
+    "skill_count": 2,
+    "mean_tokens_per_skill": 560.0,
+    "token_saving_per_invoke": 641.0,
+    "token_saving_pct": 53.4
+  },
+  {
+    "repo": "triggerdotdev/trigger.dev",
+    "agent": "Devin",
+    "acf_tokens": 2017,
+    "skill_count": 2,
+    "mean_tokens_per_skill": 908.5,
+    "token_saving_per_invoke": 1108.5,
+    "token_saving_pct": 55.0
+  },
+  {
+    "repo": "trycompai/comp",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 195,
+    "skill_count": 23,
+    "mean_tokens_per_skill": 777.7,
+    "token_saving_per_invoke": -582.7,
+    "token_saving_pct": -298.8
+  },
+  {
+    "repo": "wei/socialify",
+    "agent": "OpenAI_Codex",
+    "acf_tokens": 41,
+    "skill_count": 3,
+    "mean_tokens_per_skill": 466.3,
+    "token_saving_per_invoke": -425.3,
+    "token_saving_pct": -1037.4
+  },
+  {
+    "repo": "wheels-dev/wheels",
+    "agent": "Claude_Code",
+    "acf_tokens": 5642,
+    "skill_count": 12,
+    "mean_tokens_per_skill": 1082.1,
+    "token_saving_per_invoke": 4559.9,
+    "token_saving_pct": 80.8
+  },
+  {
+    "repo": "yamadashy/repomix",
+    "agent": "Devin",
+    "acf_tokens": 1,
+    "skill_count": 2,
+    "mean_tokens_per_skill": 217.0,
+    "token_saving_per_invoke": -216.0,
+    "token_saving_pct": -21600.0
+  },
+  {
+    "repo": "yoshiko-pg/difit",
+    "agent": "Claude_Code",
+    "acf_tokens": 591,
+    "skill_count": 6,
+    "mean_tokens_per_skill": 534.5,
+    "token_saving_per_invoke": 56.5,
+    "token_saving_pct": 9.6
+  },
+  {
+    "repo": "zwave-js/zwave-js",
+    "agent": "Copilot",
+    "acf_tokens": 1,
+    "skill_count": 2,
+    "mean_tokens_per_skill": 2030.0,
+    "token_saving_per_invoke": -2029.0,
+    "token_saving_pct": -202900.0
+  }
+]
